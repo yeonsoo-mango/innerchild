@@ -1,0 +1,4 @@
+#my basic python learning log 
+#list
+colors = ['red', 'blue', 'green', 'yellow]
+print(colors)
