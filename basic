@@ -2,3 +2,5 @@
 #list
 colors = ['red', 'blue', 'green', 'yellow]
 print(colors)
+#HTML 
+<!-- this is comment hider --> 
